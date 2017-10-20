@@ -25,7 +25,7 @@ SECRET_KEY = 'vtjan67z(ayag83$q%_+lt*qs+x!%7+mjsdiuirg*2=x03x1w_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['itachirox.pythonanywhere.com','111.254.19.95']
+ALLOWED_HOSTS = ['itachirox.pythonanywhere.com','111.254.19.95','127.0.0.1']
 
 
 # Application definition
